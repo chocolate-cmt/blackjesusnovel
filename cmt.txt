@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Black Jesus Novel</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: #f1f1f1;
+      line-height: 1.6;
+    }
+    header {
+      background: #b30000;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+    }
+    header h2 {
+      margin: 0;
+      font-weight: normal;
+      font-size: 1.2em;
+    }
+    .container {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 20px;
+    }
+    img.cover {
+      width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+      border: 4px solid #b30000;
+    }
+    .buttons a {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      background: #b30000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .buttons a:hover {
+      background: #d40000;
+    }
+    details {
+      background: #222;
+      padding: 15px;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+    details summary {
+      cursor: pointer;
+      font-weight: bold;
+      color: #ff6666;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #222;
+      color: #999;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Black Jesus Novel</h1>
+    <h2>by Jonathan James Williams Sr. & Layla Amaya-James Williams</h2>
+  </header>
+
+  <div class="container">
+    <!-- Book Cover Placeholder -->
+    <img src="cover-placeholder.jpg" alt="Black Jesus Novel Cover" class="cover" />
+
+    <!-- Book Description -->
+    <p><strong>Black Jesus Novel</strong> is a dark, gripping story of a serial killer stalking San Francisco in 1987. Under the pen name Black Jesus, the killer leaves a bloody trail that rocks the Bay Area and intertwines with a chilling personal past. Fans of true crime and psychological thrillers will be drawn into this twisted tale of secrets, deception, and horror.</p>
+
+    <!-- Buy Links -->
+    <div class="buttons">
+      <a href="#" target="_blank">Buy on Amazon</a>
+      <a href="#" target="_blank">Buy on Your Website</a>
+      <a href="#" target="_blank">More Retailers</a>
+    </div>
+
+    <!-- Contact -->
+    <h3>Contact</h3>
+    <p>Email: <a href="mailto:ablackjesusnovel@gmail.com" style="color: #ff6666;">ablackjesusnovel@gmail.com</a></p>
+
+    <!-- Social Links -->
+    <h3>Follow</h3>
+    <p>
+      <a href="https://instagram.com/ablackjesusnovel" target="_blank" style="color: #ff6666;">Instagram @ablackjesusnovel</a>
+      <br/>
+      TikTok link coming soon!
+    </p>
+
+    <!-- Book Outline -->
+    <details>
+      <summary>Read Book Outline & Characters</summary>
+      <pre style="white-space: pre-wrap; color: #ddd; margin-top: 15px;">
+Copyright © Black Jesus 2025
+(A Black Jesus Novel)
+Copyright © Book 1 1977 Jonathan James Williams Sr. 2025
+
+Story based in San Francisco Bay Area
+
+Main Character - Kardashian Sebatian York lll 
+Moniker - ‘Black Jesus’
+Kardashian’s Mother’s Name - Layla Isabela Price-York
+Kardashian’s Father’s Name - Elijah Kenneth York ll
+Kardashian’s Grandfather’s Name - Grant Jones York Sr.
+Homicide First Detective - James Casey 
+Detective - Helen Osborne
+Oakland Tribune Crime Reporter - April Showers
+
+Background: He is a flower shop owner
+
+[Murder scenes and notes from your outline...]
+
+Helloooooo Readers. Enjoy my journey.
+
+This book is a sadistic dark fairytale about me, Black Jesus.
+
+We listen with our ears.
+We see with our eyes.
+We read with our lips.
+      </pre>
+    </details>
+
+  </div>
+
+  <footer>
+    &copy; 2025 Black Jesus Novel. All rights reserved.
+  </footer>
+
+</body>
+</html>
